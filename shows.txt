@@ -1,0 +1,15 @@
+Stranger Things
+3
+Fantasy
+5,4,2,5
+SciFi,Kids,Gore
+Brooklyn Nine Nine
+8
+Comedy
+5,5,1
+Crime,TerryCrews
+Loki
+1
+Action
+
+Mischief,TimeTravel
